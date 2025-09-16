@@ -1,6 +1,3 @@
 ## Tecnologias Utilizadas
 
-*   **SQL Server** – banco de dados
-*   **(Definir linguagens/frameworks usados, ex: C#, .NET, Java, Node.js, etc.)**
-*   **Ferramentas de versionamento**: Git/GitHub
-
+<div align="center"> <!-- C# --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="60" height="60"/> <!-- .NET --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt=".NET" width="60" height="60"/> <!-- ASP.NET (não tem ícone oficial, usamos o do .NET) --> <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt="ASP.NET" width="60" height="60"/> <!-- Git --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="60" height="60"/> <!-- GitHub --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="60" height="60"/> <!-- VS Code --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="60" height="60"/> </div>
